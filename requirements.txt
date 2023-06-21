@@ -1,0 +1,5 @@
+numpy 
+pandas 
+
+-e .
+# The -e . flag in the requirements.txt file tells pip to install the packages in the current directory as editable packages. This means that any changes you make to the packages in the current directory will be reflected in the installed version of the package.
